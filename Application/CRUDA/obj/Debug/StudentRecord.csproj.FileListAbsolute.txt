@@ -1,0 +1,339 @@
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.exe.config
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.exe
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.pdb
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.exe
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.pdb
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.AddStudentForm.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.View_Students.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.CourseAdd.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.View_Course.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Add_Enrollments.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.View_Enrollments.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Attendance.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Main_fORM.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\bin\Debug\CRUDA.exe.config
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\bin\Debug\CRUDA.exe
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\bin\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.AddStudentForm.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Add_Enrollments.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Attendance.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Checkingform.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.CourseAdd.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Main_fORM.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.View_Course.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.View_Enrollments.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.View_Students.resources
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.exe
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\lab02\CRUDA\CRUDA\obj\Debug\CRUDA.Form1.resources
+C:\4th Smester\Data Base\midproject\CRUDA\bin\Debug\CRUDA.exe.config
+C:\4th Smester\Data Base\midproject\CRUDA\bin\Debug\CRUDA.exe
+C:\4th Smester\Data Base\midproject\CRUDA\bin\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\CRUDA.Form1.resources
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\CRUDA.exe
+C:\4th Smester\Data Base\midproject\CRUDA\obj\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\CRUDA.exe.config
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\CRUDA.exe
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.exe
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.pdb
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.StudentForm.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.StudentListForm.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.samplecheckformforUI.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.ClassAttendence.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\BouncyCastle.Crypto.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itextsharp.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itextsharp.pdfa.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itextsharp.xmlworker.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itextsharp.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\StudentRecord.csproj.CopyComplete
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.AssessmentForm.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.CLOsForm.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Ruberic_Form.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Ruberic_Level_Form.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Assessment_Component_Form.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.StudentResult.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Evaluation_Form.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.MainForm.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.StudentListControl.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.Student.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.AssessmentC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.AssessCompC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.RubricC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.RubricLevelC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.StudentRC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.EvaluationC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.ResultAC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.ReportsC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.ViewAttendanceC.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\obj\Debug\CRUDA.DashBoard.resources
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.barcodes.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.bouncy-castle-connector.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.commons.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.forms.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.io.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.kernel.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.layout.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.pdfa.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.sign.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.styledxmlparser.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.svg.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Newtonsoft.Json.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Buffers.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Memory.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Numerics.Vectors.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.ValueTuple.dll
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.barcodes.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.bouncy-castle-connector.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.commons.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.forms.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.io.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.kernel.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.layout.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.pdfa.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.sign.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.styledxmlparser.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\itext.svg.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\Newtonsoft.Json.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Buffers.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Memory.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Numerics.Vectors.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\4th Smester\Data Base\midproject\cs262s23cs04\CRUDA\bin\Debug\System.ValueTuple.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.DashBoard.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.MainForm.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.Student.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.exe
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.pdb
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\CRUDA.exe.config
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\CRUDA.exe
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\CRUDA.pdb
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\BouncyCastle.Crypto.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.barcodes.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.bouncy-castle-connector.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.commons.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.forms.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.io.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.kernel.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.layout.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.pdfa.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.sign.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.styledxmlparser.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.svg.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itextsharp.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itextsharp.pdfa.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itextsharp.xmlworker.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Options.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Newtonsoft.Json.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Buffers.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Memory.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Numerics.Vectors.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.ValueTuple.dll
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.barcodes.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.bouncy-castle-connector.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.commons.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.forms.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.io.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.kernel.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.layout.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.pdfa.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.sign.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.styledxmlparser.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itext.svg.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\itextsharp.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\Newtonsoft.Json.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Buffers.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Memory.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Numerics.Vectors.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\bin\Debug\System.ValueTuple.xml
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\StudentRecord.csproj.CopyComplete
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.UCs.loginUC.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.Forms.LoginForm.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.UCs.SignupUC.resources
+C:\5th Semester\SE\Project_SE_Lab\ShopNexus\ShopNexus\Project\CRUDA\obj\Debug\CRUDA.UCs.AddProduct_UC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\CRUDA.exe.config
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\CRUDA.exe
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\CRUDA.pdb
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.barcodes.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.bouncy-castle-connector.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.commons.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.forms.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.io.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.kernel.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.layout.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.pdfa.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.sign.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.styledxmlparser.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itext.svg.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\itextsharp.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.Options.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Newtonsoft.Json.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Buffers.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Memory.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Numerics.Vectors.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.ValueTuple.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.DashBoard.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.Forms.LoginForm.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.MainForm.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.AddProduct_UC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.loginUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.SignupUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.CopyComplete
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.exe
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.pdb
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Win32.Registry.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\RestSharp.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.CodeDom.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Data.Odbc.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Data.OleDb.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Data.SqlClient.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Diagnostics.EventLog.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Drawing.Common.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.IO.Packaging.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.IO.Ports.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.AccessControl.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Permissions.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Security.Principal.Windows.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.ServiceModel.Syndication.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Threading.AccessControl.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.exe.config
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.ViewUsersUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\StudentRecord.csproj.Fody.CopyLocal.cache
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.UserDataUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.exe.licenses
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.ViewProductViewer.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.ViewProducts.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.Forms.NotificationForm.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.ViewReviewsUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.CartItemUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.ViewCartUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.BillingUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Collections.Immutable.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Reflection.Metadata.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Reflection.MetadataLoadContext.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Text.Encodings.Web.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\bin\Debug\System.Text.Json.xml
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.NotificationsSaledProductsUC.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.Forms.MessageForm.resources
+C:\5th Semester\SE\Project\ShopNexus\Application\CRUDA\obj\Debug\CRUDA.UCs.MessagesUC.resources

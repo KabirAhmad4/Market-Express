@@ -1,0 +1,11 @@
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.exe.config
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.exe
+C:\HackerRank\CRUDA\CRUDA\bin\Debug\CRUDA.pdb
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.AssemblyReference.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.SuggestedBindingRedirects.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Form1.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.GenerateResource.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.CoreCompileInputs.cache
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.exe
+C:\HackerRank\CRUDA\CRUDA\obj\Debug\CRUDA.pdb
