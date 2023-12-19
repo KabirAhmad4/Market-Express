@@ -1,0 +1,31 @@
+
+  SELECT SUM(Products.Price) AS TotalPrice
+FROM Orders
+JOIN Carts ON Orders.cartID = Carts.cartID
+JOIN CartItems ON Carts.cartID = CartItems.CartID
+JOIN Products ON CartItems.ProductID = Products.ProductID
+WHERE Orders.cartID = 1014;
+
+
+
+  SELECT max(Orders.OrderID) as order_ID
+FROM Orders
+JOIN Carts ON Orders.cartID = Carts.cartID
+JOIN CartItems ON Carts.cartID = CartItems.CartID
+JOIN Products ON CartItems.ProductID = Products.ProductID
+WHERE Orders.cartID = 1014;
+
+  SELECT max(Orders.UserID) as seller_iD
+FROM Orders
+JOIN Carts ON Orders.cartID = Carts.cartID
+JOIN CartItems ON Carts.cartID = CartItems.CartID
+JOIN Products ON CartItems.ProductID = Products.ProductID
+WHERE Orders.cartID = 1014;
+
+  SELECT count(Products.Price) AS TotalPrice
+FROM Orders
+JOIN Carts ON Orders.cartID = Carts.cartID
+JOIN CartItems ON Carts.cartID = CartItems.CartID
+JOIN Products ON CartItems.ProductID = Products.ProductID
+WHERE Orders.cartID = 1014;
+
